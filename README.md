@@ -4,6 +4,8 @@
 
 A data-driven report developed by **Carllos Watts-Nogueira** 
 as part of the **Artificial Intelligence & Machine Learning** program at the **University of San Diego / Fullstack Academy (Section: 2504-FTB-CT-AIM-PT)**.
+- - Start date: May/2025
+- - End Date: June/2025
 
 **Objective**: 
 Analyze the fourth-quarter sales performance of *AAL*, a prominent clothing brand in Australia, across states and demographics. This includes revenue insights, time-of-day breakdowns, and strategic recommendations for future growth.
