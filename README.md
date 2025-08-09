@@ -5,6 +5,14 @@ as part of the **Artificial Intelligence & Machine Learning** program at the **U
 - - Start date: May/2025
 - - End Date: June/2025
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
+![Dataset](https://img.shields.io/badge/Dataset-Synthetic%20Sales%20Data-lightgrey.svg)
+![Visualization](https://img.shields.io/badge/Visualization-Seaborn%20%26%20Matplotlib-orange.svg)
+![Notebook](https://img.shields.io/badge/Platform-JupyterLab-yellow.svg)
+![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red.svg)
+
 **Objective**: 
 Analyze the fourth-quarter sales performance of *AAL*, a prominent clothing brand in Australia, across states and demographics. This includes revenue insights, time-of-day breakdowns, and strategic recommendations for future growth.
 AAL, a leading clothing brand in Australia, is undergoing aggressive expansion and seeks data-driven insights to optimize its sales strategy.  
